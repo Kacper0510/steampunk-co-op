@@ -1,0 +1,13 @@
+name = "cat_jam"
+filename = "cat_jam-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/x3s69afN/versions/e9FyGCZg/cat_jam-1.1.2.jar"
+hash-format = "sha1"
+hash = "64ec75e3c35188972e0ac9a95dfb551178caae90"
+
+[update]
+[update.modrinth]
+mod-id = "x3s69afN"
+version = "e9FyGCZg"

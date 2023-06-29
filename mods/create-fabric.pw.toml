@@ -1,0 +1,13 @@
+name = "Create Fabric"
+filename = "create-fabric-0.5.1-b-build.1079+mc1.19.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7890f0abfdcbdaf98d076cce4fa8ff1ea18b8718"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4597892
+project-id = 624165
