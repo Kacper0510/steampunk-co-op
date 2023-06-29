@@ -65,6 +65,11 @@ hash = "701e4d124c9bf41aa3d3e799d946d3c9a34489ffad95c4a6e54d69c2ba5e2442"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "071d3136a96f205bc989c5bcb9b7ec74057f2f0f2a9f1500c18835f07b2a8cbc"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "7f63923d2240d002b0d113eec8a2fea4869837c09386faed9e1a4d096552d594"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "38cd2a54604d966a03b9c48af284f16709a83e2fc8a64eaf2b491633a64bf496"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "49301921d82655e2779ccf6c26417b703f7b05f3c4f23feaa9e2bf7e739399cc"
 metafile = true
 
 [[files]]
@@ -147,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "a8709e4db34f2b6d5ad924cb11d0106154417c62007e3c2bafb72ba496f83cf5"
+metafile = true
+
+[[files]]
+file = "mods/eureka-ships.pw.toml"
+hash = "b81ccc1b5456fc77481fea2e1dfac5bfeb63f49b739da10fd39819c8dc20dd69"
 metafile = true
 
 [[files]]
@@ -352,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/universal_ores.pw.toml"
 hash = "377f9bb0ff4133e639b9017434cb8ad9bd0af6c9eef4366de04764ab755dc688"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "52ca7b56e3e71d32a653d325e2b74dd4d784629e1355a489d8eb4a0255826a75"
 metafile = true
 
 [[files]]
