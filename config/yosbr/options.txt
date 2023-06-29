@@ -1,0 +1,12 @@
+version:3120
+autoJump:false
+snooperEnabled:false
+darkMojangStudiosBackground:true
+advancedItemTooltips:true
+tutorialStep:none
+skipMultiplayerWarning:true
+joinedFirstServer:true
+chatPreview:false
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_zoomify.key.zoom:key.keyboard.c
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
