@@ -70,11 +70,6 @@ hash = "071d3136a96f205bc989c5bcb9b7ec74057f2f0f2a9f1500c18835f07b2a8cbc"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "7f63923d2240d002b0d113eec8a2fea4869837c09386faed9e1a4d096552d594"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "79469cba3bc4605e4c2ffa4abe5c65bb8bc0ba69361cbc16c6d08bc61e81ad38"
 metafile = true
@@ -111,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "49301921d82655e2779ccf6c26417b703f7b05f3c4f23feaa9e2bf7e739399cc"
+hash = "4deb3bd216ead30f34182abeca6f430721493fab723e01720cc631df5ddae9e5"
 metafile = true
 
 [[files]]
@@ -191,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "eadfa683575620f77806518a35e822bad539aac6358c94db82272751d5c6961d"
+hash = "32cff441dba71cee026356fe08147e289183532b7215071cdb0dd91af56aa643"
 metafile = true
 
 [[files]]
@@ -242,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorting.pw.toml"
+hash = "c24cdfd72b2bdfc43e9f7ed7f2cc2ab67ef4abfaaaf92f21ebfd373d5163b4c0"
 metafile = true
 
 [[files]]
@@ -306,12 +306,17 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
+hash = "cbc992bd5c0a572dd4712f8eeef4fedd531cf4a1642876ab579039488dabfe8f"
 metafile = true
 
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
@@ -372,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "52ca7b56e3e71d32a653d325e2b74dd4d784629e1355a489d8eb4a0255826a75"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "719da66ac6adbf00ace4a021f1bfcd6aca271b16caa40629de9e73a79b844905"
 metafile = true
 
 [[files]]
