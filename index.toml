@@ -21,10 +21,6 @@ file = "config/yosbr/options.txt"
 hash = "b149e727aa6aef843e84854e7c8e0c8023423433338290f7f1faffbe777e9777"
 
 [[files]]
-file = "global_packs/required_data/A_BlazeandCave's Advancements Pack Hardcore.zip"
-hash = "6b65dc230584a8eb5a2ae817fa309ca5dee90ccc6cbde9a06c3bc33b7c2f5718"
-
-[[files]]
 file = "global_packs/required_data/BlazeandCave's+Advancements+Pack+1.15.3.zip"
 hash = "086ecf095853d77b9227c105887947ebf3d1dadde9e5716474a131ba6fcc9034"
 
