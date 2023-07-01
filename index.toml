@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "ff61a5229da95c0f2373693540dcc7d828369c5d9578459e3a59128de6cdfa77"
+
+[[files]]
 file = "config/yosbr/config/inventorysorter/config.json5"
 hash = "57f08fdd8e5fd76180485e6aaf7a7c9668e2e2ef155159d31b0ec07357b35f4f"
 
