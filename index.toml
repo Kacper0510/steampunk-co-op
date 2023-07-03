@@ -303,6 +303,11 @@ hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
 metafile = true
 
 [[files]]
+file = "mods/lan-server-properties.pw.toml"
+hash = "17830718e0cc945c2606ce0068baeed618f2908c424fe96fb8267933f2e4b647"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "cfd9e5d05e671d4229d2afee38ba971004ada26cb99f41523d42a1bc1c0aacfe"
 metafile = true
