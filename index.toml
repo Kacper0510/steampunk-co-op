@@ -2,15 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/inventorysorter/config.json5"
-hash = "57f08fdd8e5fd76180485e6aaf7a7c9668e2e2ef155159d31b0ec07357b35f4f"
+hash = "69460ec2160d2273dad8c8eec42e60425be5da2a75283e2382aabcedc969ae1c"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "c2c39265ef5696d753a19ec6eca0b4befc31f3caf52dc6c2b8100e652c99ee98"
+hash = "697ddaaf2cf0c81d67979650ba20f187c32732c5a8cdb849643bdc7149c57ad4"
 
 [[files]]
 file = "config/yosbr/config/libgui.json5"
-hash = "330d0f5d2cad9337f583ccf411f0de268c66b4ddbbcc24d15d4c240f0502fe99"
+hash = "857770cf689bda9db6c59cee273c6ba19e97fb565251b2cf1c6ffc4886dbb69a"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -18,7 +18,7 @@ hash = "dd6f94bc9b0002d8db083a1f7a4238fd93489046f3084b03ce92338ab5a65b00"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "b149e727aa6aef843e84854e7c8e0c8023423433338290f7f1faffbe777e9777"
+hash = "38aa787864a71bf4cac2f931c85f6f3781b3850ad3fbd5a281f812c80c601f35"
 
 [[files]]
 file = "global_packs/required_data/BlazeandCave's+Advancements+Pack+1.15.3.zip"
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "4deb3bd216ead30f34182abeca6f430721493fab723e01720cc631df5ddae9e5"
+hash = "ba6052029d82ecdfe81261b1a0fe06e44c22f6f5b86feab7324668b6ad8b1e52"
 metafile = true
 
 [[files]]
@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "cbc992bd5c0a572dd4712f8eeef4fedd531cf4a1642876ab579039488dabfe8f"
+hash = "c51baf9468969f8421454e9955234f7a1200f9c851d8fdf522674dbdbdcb6682"
 metafile = true
 
 [[files]]
@@ -405,6 +405,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
+metafile = true
+
+[[files]]
+file = "mods/stack-to-nearby-chests.pw.toml"
+hash = "6d0dd752524394c679d7b9210fdd8684e1e05c2180c7774bef45005f71da9eff"
 metafile = true
 
 [[files]]
