@@ -53,6 +53,11 @@ file = "global_packs/required_data/wandering trades v1.6.0 (MC 1.19.x).zip"
 hash = "31fd494319e09a0f68d0885a2e1a78debdb5a6f4faa3045f3d810c108987d77c"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "d3a87d340439309a208ec67f0d9c8004458b315f39add685ee298909988f0d9b"
 metafile = true
@@ -90,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/better-ping-display-fabric.pw.toml"
 hash = "9a65d0348c683efc848cfe5e09b19851e8642fa2307491636c2bdac0e8122046"
+metafile = true
+
+[[files]]
+file = "mods/big-beacons.pw.toml"
+hash = "69b9bbaf3fbd7451c99a9661d7e2ced88b1e2cd9789c86c9d1c7bfb67b33e261"
 metafile = true
 
 [[files]]
@@ -300,6 +310,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
