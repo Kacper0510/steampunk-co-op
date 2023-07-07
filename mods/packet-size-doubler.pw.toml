@@ -1,0 +1,13 @@
+name = "Packet Size Doubler"
+filename = "packet_size_doubler-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "caeb5312fb9aaf6beb12c54fb18671d7dec8793c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3912877
+project-id = 625437

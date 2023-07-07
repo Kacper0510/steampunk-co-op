@@ -383,6 +383,11 @@ hash = "c51baf9468969f8421454e9955234f7a1200f9c851d8fdf522674dbdbdcb6682"
 metafile = true
 
 [[files]]
+file = "mods/packet-size-doubler.pw.toml"
+hash = "32852d3cbf826efb9bc78e365c94f52101b2a4c0ff4d59560b60f77cb2cccf0e"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
 metafile = true
