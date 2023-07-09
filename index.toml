@@ -128,6 +128,11 @@ hash = "071d3136a96f205bc989c5bcb9b7ec74057f2f0f2a9f1500c18835f07b2a8cbc"
 metafile = true
 
 [[files]]
+file = "mods/cccbridge.pw.toml"
+hash = "0b7fedd448e97629a7ec904bfeaf5e55fd77ab9e51fbeed940521460fd60dd56"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "79469cba3bc4605e4c2ffa4abe5c65bb8bc0ba69361cbc16c6d08bc61e81ad38"
 metafile = true
@@ -310,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "af3675c9022d8669af5486c58fa9a685189a579a772a4c2ea5705bbe29bb169d"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
 metafile = true
 
 [[files]]
