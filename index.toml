@@ -498,5 +498,21 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Bibliophilia+1.3.zip"
+hash = "11bf7926ff209fdd42deb61018b306ee05343d45ea49d8db2d01974f49b1d1ab"
+
+[[files]]
+file = "resourcepacks/ComputerCreate.zip"
+hash = "f10b186d0cb78d20399f8fc27f94cb9985dc0c018f958928fad26b481ba6de0b"
+
+[[files]]
 file = "resourcepacks/Eureka+Create+1.0.zip"
 hash = "782745e07d612cb285e0071ebb8ee9954bfb1879b8fde3998d9a2225a0cad097"
+
+[[files]]
+file = "resourcepacks/FreshAnimations_v1.8.zip"
+hash = "c31ee77457517dcad5fd1b38cfd7f71cd19c831803f8c2ab9fc19463ed108d80"
+
+[[files]]
+file = "resourcepacks/Unity-1.19.2-Dark-1.1.0.zip"
+hash = "e10e83ebc4459dd7b07951e529f11db9be17554debf5c1d46574c81468cce441"
