@@ -148,8 +148,18 @@ hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
+file = "mods/clear-despawn-fabric.pw.toml"
+hash = "43d9d3f44706006093716f0fd23586858e52a33bde2e9fc6944485c5ed8ba2f8"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/companion-fabric.pw.toml"
+hash = "3bee0ff75dd8ef64df21826c4f8b6737888c7fa47a9e31f4dc47f90dfe4b3d4f"
 metafile = true
 
 [[files]]
@@ -169,12 +179,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "38cd2a54604d966a03b9c48af284f16709a83e2fc8a64eaf2b491633a64bf496"
+hash = "1458e4909039fdd41aeb1d7cc7c82fa6def77a48b29ab45f99a9248e05f1e8e1"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "ba6052029d82ecdfe81261b1a0fe06e44c22f6f5b86feab7324668b6ad8b1e52"
+hash = "d548306cf5dc3860d8c2fff876c41fa4ba65a7517f14c0c4fd651055ab3b6b8d"
 metafile = true
 
 [[files]]
@@ -190,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "13d2cd3ccf6ced930b3645cea91db00a9077773587539e5ec85250a714f47be1"
 metafile = true
 
 [[files]]
@@ -270,6 +285,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "1c28550134fa3fbaa8893ecf1eef52d525c337649ba190f07ea2eeeacd556156"
 metafile = true
 
 [[files]]
@@ -408,6 +428,11 @@ hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a7a2599342362f2240a4f1fee7f090d9920a3af4c7937fc6237787e7e0aa05d0"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
@@ -425,6 +450,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
 hash = "7f67f250f1ac5f71b62d9682db7e99fc1652271ad574dce12a295ab148cc8e2c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "6f46cfcca55777b06ce0bf646a815aed4fbc4eb19e21e055a8e6528e41397278"
 metafile = true
 
 [[files]]
