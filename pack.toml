@@ -1,12 +1,12 @@
 name = "Steampunk Co-op"
 author = "SzeMrok, Kacper0510"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f314e34e8e09da1b0e5168dc2d2217759b7ee45d8b34a130eda85e8abdca9860"
+hash = "a6a354f860ca44615c7cb618527189945bb9426bd6fce8b7dbc762288a922d71"
 
 [versions]
 fabric = "0.14.21"
