@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "6bb35587a4c9a57ddb4369aabe50da97fc5a2ebeb5cec3cade152e8f6174ea33"
+hash = "df801df353fdfbcab0c2650b7daa51a13556bec031c4c9f66f65814703f578da"
 metafile = true
 
 [[files]]
@@ -195,6 +195,11 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "4a13d096e82525f8cd4eb0e8c14f43929d11d7d8b54d7d34a981f7ac29614699"
+metafile = true
+
+[[files]]
+file = "mods/dcwa.pw.toml"
+hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
 metafile = true
 
 [[files]]
@@ -224,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9616da43fd3b03c0970349a2bd28772705b7ee18bc1bac160332725210a09eab"
+hash = "809d881d49a5535025e3ed3b74ae714bfbec405e4b7fae234a4bdd51691e0b3a"
 metafile = true
 
 [[files]]
@@ -254,17 +259,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
+hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "2ecf8a35b7a0f6f00245fc95bc1d15f40ddcbb3c31794e2447911099a326ff9c"
+hash = "317630013414bf85db780d2f81fba158012da75370be3e4ffd6a1b79147d3ba8"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "1ef7f8449365aa7f1185447ca46bc1c742e3d766c9dffb90b90447daed049042"
+hash = "9cdd6767e3a3622ef53706bc9737c8ad771cf08590c7053b86a0c639f447b379"
 metafile = true
 
 [[files]]
@@ -409,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "c51baf9468969f8421454e9955234f7a1200f9c851d8fdf522674dbdbdcb6682"
+hash = "8920ffe58fce4cfcba81c40d37aa12b08887d82ed057f365e9250c60329b5598"
 metafile = true
 
 [[files]]
