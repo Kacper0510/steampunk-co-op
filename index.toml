@@ -25,6 +25,10 @@ file = "global_packs/required_data/BlazeandCave's+Advancements+Pack+1.15.3.zip"
 hash = "086ecf095853d77b9227c105887947ebf3d1dadde9e5716474a131ba6fcc9034"
 
 [[files]]
+file = "global_packs/required_data/CreateExtraRecipeV3.1.zip"
+hash = "e822a40081a48d8bbe5dc56966c7cf8b73e9df63a36795377b56cbe88c539ede"
+
+[[files]]
 file = "global_packs/required_data/VanillaTweaks_c168206_MC1.19.x.zip"
 hash = "9191a5ac72ed158f164bf3f8ee64698cf31dc14bbff53ca5d206eba58905d01e"
 
