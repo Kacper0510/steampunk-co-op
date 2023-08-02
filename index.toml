@@ -25,8 +25,8 @@ file = "global_packs/required_data/BlazeandCave's+Advancements+Pack+1.15.3.zip"
 hash = "086ecf095853d77b9227c105887947ebf3d1dadde9e5716474a131ba6fcc9034"
 
 [[files]]
-file = "global_packs/required_data/CreateExtraRecipeV3.1.zip"
-hash = "e822a40081a48d8bbe5dc56966c7cf8b73e9df63a36795377b56cbe88c539ede"
+file = "global_packs/required_data/CreateExtraRecipeV4.0.zip"
+hash = "eba08725a1ee8810dd87a7c7c059d446b1419ebc26b90c510ad1ad49d26223fd"
 
 [[files]]
 file = "global_packs/required_data/VanillaTweaks_c168206_MC1.19.x.zip"
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "79469cba3bc4605e4c2ffa4abe5c65bb8bc0ba69361cbc16c6d08bc61e81ad38"
+hash = "8be3aee474f2d2b7cde36b9253f0653d183d7d31e63239b5d28108425d0f394d"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.pw.toml"
-hash = "43d9d3f44706006093716f0fd23586858e52a33bde2e9fc6944485c5ed8ba2f8"
+hash = "65b470315d774a78696561b574b72a0873a36eaec8ad56fdfbfd46bf9c6fe37c"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "df801df353fdfbcab0c2650b7daa51a13556bec031c4c9f66f65814703f578da"
+hash = "446fee7372a359167add6735ad1dfc5b7415cb5568d2241b0426f8dc2dc34d70"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/diagonal-fences.pw.toml"
-hash = "13d2cd3ccf6ced930b3645cea91db00a9077773587539e5ec85250a714f47be1"
+hash = "77377cd4852b304838e067a8133249ad074bdfd202f243e1b340deeb2418482a"
 metafile = true
 
 [[files]]
@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "de9b5bac4165fb069bf6df9da2bb6028d50dd51fa0d294f0fb62d1d0c64b707b"
+hash = "ff4a66502e802341a84fbb8eceed65156b14436769b1f7e27a68b22fb59c1dae"
 metafile = true
 
 [[files]]
@@ -303,12 +303,12 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-chunks-fabric.pw.toml"
-hash = "bac8e98d1754913c2581a1485c89e490a6ff5b464928ff95f699245cb282593f"
+hash = "22d2287439beaea5680b5f37924d8958d196c59389f5f60dd30383c3b4887634"
 metafile = true
 
 [[files]]
 file = "mods/ftb-library-fabric.pw.toml"
-hash = "ef746e7a41f7c0c6db11ccc98fba9d0ee43b3978b181650b2ab1c45a4cdd0eb4"
+hash = "3962cc289af4c636f20748d33729a61f14ddd38d55405a0f4169c8e2133f279f"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "8920ffe58fce4cfcba81c40d37aa12b08887d82ed057f365e9250c60329b5598"
+hash = "360d9c763eba85073c720eb7b41d8c6649012cb2733fc2a670c3c9bf3322fc9b"
 metafile = true
 
 [[files]]
@@ -443,12 +443,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "21ae5782c5657fbdc90aa42f3d1cfe76168fe107d66f207ec210dc505c096f7b"
+hash = "968dfd85b79d8c3efd84f291dfaef6401fef5c144e37189a7872e294c290c25a"
 metafile = true
 
 [[files]]
@@ -488,7 +488,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "6d0dd752524394c679d7b9210fdd8684e1e05c2180c7774bef45005f71da9eff"
+hash = "3a6068f23f4febd1bf71c6166fd6fb7d52e15f56efeaa4a3c1c586b80f8882bb"
 metafile = true
 
 [[files]]
@@ -513,7 +513,7 @@ metafile = true
 
 [[files]]
 file = "mods/valkyrien-skies.pw.toml"
-hash = "52ca7b56e3e71d32a653d325e2b74dd4d784629e1355a489d8eb4a0255826a75"
+hash = "c64de052781c3c107ddb231a8fce5a6d85f5acd14984a0317c1887a1e4d4fa6a"
 metafile = true
 
 [[files]]

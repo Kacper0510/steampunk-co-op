@@ -1,13 +1,13 @@
 name = "Stack to Nearby Chests"
-filename = "stack-to-nearby-chests-mc1.19.2-0.3.0.jar"
+filename = "stack-to-nearby-chests-mc1.19.2-0.3.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fec15ccf631b845da195919be0da54b9b63c3c07"
+hash = "d5277bc83b343582b4b6757ff4148097f79967fd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4554865
+file-id = 4649483
 project-id = 693995
