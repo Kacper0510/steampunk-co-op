@@ -1,13 +1,13 @@
 name = "Create Enchantment Industry Fabric"
-filename = "create_enchantment_industry-1.0.0.jar"
+filename = "create_enchantment_industry-1.0.1.b.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "74077847170b33b3cc23519d092737c0ed173eb8"
+hash = "a1d8f88a0ff08d9ab3a2bf0f8e666a8290c39aec"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4671906
+file-id = 4768318
 project-id = 876129
